@@ -2,6 +2,7 @@
   'variables': {
     'use_udev%': 1,
     'use_system_libusb%': 'false',
+    'napi_build_version%': '4'
   },
   'targets': [
     {
